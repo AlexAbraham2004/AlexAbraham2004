@@ -33,8 +33,8 @@ Welcome to my GitHub profile! I'm **Alex Abraham**, a junior Computer Science st
 
 
 ### 🔭 I’m currently working on:  
-• [**NBA Fantasy App**](https://github.com/Shahed4/NBA-Fantasy-App): A fantasy sports platform for NBA fans.  
-• [**TrainTrip**](https://github.com/Shahed4/TrainTrip): A trip-planning app focused on train routes and schedules.  
+• [**NBA Fantasy App**](https://github.com/AlexAbraham2004/NBA-Fantasy-App): A fantasy sports platform for NBA fans.  
+• [**TrainTrip**](https://github.com/AlexAbraham2004/TrainTrip): A trip-planning app focused on train routes and schedules.  
 • [**Halal Food Locator**](#): A tool for finding nearby halal restaurants and food options. *(Link to be added when created)*
 
 • **The Complete 2024 Web Development Bootcamp**: Becoming a full-stack web developer by learning HTML, CSS, JavaScript, Node, React, PostgreSQL, Web3, and DApps through Dr. Angela Yu's comprehensive course.
