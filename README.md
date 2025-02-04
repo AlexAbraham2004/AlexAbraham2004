@@ -41,6 +41,7 @@ I’m a Division III volleyball player, motorcycle enthusiast, and a foodie with
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/-VHDL-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>  
 
 ---
@@ -49,6 +50,7 @@ I’m a Division III volleyball player, motorcycle enthusiast, and a foodie with
 <p align="left">
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -65,4 +67,9 @@ I’m a Division III volleyball player, motorcycle enthusiast, and a foodie with
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/-ModelSim-008080?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Quartus-17A2B8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Mars4_5-B22222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DrRacket-0000FF?style=for-the-badge" />
 </p>  
