@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-Welcome to my GitHub profile! I'm **Alex Abraham**, a junior Computer Science student at the Grove School of Engineering, CCNY. I’m passionate about building impactful projects, exploring AI, and diving into full-stack development.  
+Welcome to my GitHub profile! I'm **Alex Abraham**, a junior Computer Science student at the Grove School of Engineering, CCNY. I’m passionate about building impactful projects, exploring AI, and full-stack web/mobile development. Feel free to connect with me on [**LinkedIn**](https://www.linkedin.com/in/alex-abraham-a981aa261/), explore my [**Website**](https://alex-abraham.vercel.app/), and check out my [**Resume**](https://drive.google.com/file/d/1j0TKOlD2NAvd0hmeRoWDZ99qvvMjybYU/view?usp=sharing).
 
 
 ### 🔭 I’m currently working on:  
